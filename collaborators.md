@@ -17,11 +17,12 @@
 1. [Object-oriented programming]()
 2. [Modularisation principles]()
 3. [Interfaces and abstraction]()
-4. [git workflows]()
-5. [test-driven development (TDD)]()
-6. [Using Copilot effectively]()
-7. [Project management]()
-8. [Code reviews]()
+4. [Application and interface design]()
+5. [git workflows]()
+6. [test-driven development (TDD)]()
+7. [Using Copilot effectively]()
+8. [Project management]()
+9. [Code reviews]()
 
 ### Assessment
 
