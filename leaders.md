@@ -1,12 +1,5 @@
 # Leaders
 
-## Qualifying requirements
-
-- [ ] Write a project brief OR system requirements for a project/feature
-- [ ] Design a project for multiple collaborators/contributors and explain the design
-- [ ] Present a project/feature to stakeholders
-- [ ] Manage a team of at least 2 contributors/collaborators
-
 ## Responsibilities
 
 - Take on projects, analysing their impact or dependencies on other NYSD projects
@@ -15,3 +8,14 @@
 - Drive sprints for a project team
 - Propose new projects, writing specifications or briefs for them as necessary
 - Coaching collaborators
+
+## Training programme
+
+### Materials
+
+1. [Project management]()
+2. [Project planning]()
+3. [Technical writing and documentation]()
+4. [Dependency management]()
+5. [Intro to DevOps]()
+6. [GitHub Actions]()
