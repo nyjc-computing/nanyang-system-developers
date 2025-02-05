@@ -13,18 +13,13 @@
 
 1. [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
    - complete all lessons (Advanced + Algorithms)
-
+2. [Documentation & APIs]()
 2. [git branches]()
-
-3. [data security]()
-
-4. [unit testing]()
-
+3. [Data security]()
+4. [Unit testing]()
 5. [csv & json]()
-
 6. [html & css]()
-
-7. [web APIs]() OR [web programming]()
+7. [Web APIs]() OR [Web programming]()
 
 ### Assessment
 
