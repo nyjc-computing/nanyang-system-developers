@@ -29,7 +29,13 @@
    - complete Assignment 5
    - **success condition:** closing of the feedback PR by your assessors constitutes assignment completion
 
-2. Perform a **supervised** git merge (to a feature branch)
+2a. Perform a **supervised** git merge (to a feature branch)
+   - **success condition:** discretion is given to the leader/teacher supervising the merge
+
+OR
+
+2b. Create a new issue on any NYSD repository
+   - **success condition:** issue is sufficiently documented, according to discretion of a leader/teacher
 
 3a. Complete an individual project/feature
    - project/feature may involve one or more skills in the training programme
