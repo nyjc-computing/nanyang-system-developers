@@ -13,9 +13,14 @@
 
 ### Materials
 
-1. [Project management]()
-2. [Project planning]()
-3. [Technical writing and documentation]()
-4. [Dependency management]()
-5. [Intro to DevOps]()
-6. [GitHub Actions]()
+1. [Project planning]()
+2. [Technical writing and documentation]()
+3. [Dependency management]()
+4. [Intro to DevOps]()
+5. [GitHub Actions and automations]()
+6. [Data privacy]()
+
+## Advanced modules (future work) 
+
+1. Cryptography
+2. AI & LLMs
