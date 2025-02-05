@@ -18,6 +18,10 @@
 2. [Modularisation principles]()
 3. [Interfaces and abstraction]()
 4. [git workflows]()
+5. [test-driven development (TDD)]()
+6. [Using Copilot effectively]()
+7. [Project management]()
+8. [Code reviews]()
 
 ### Assessment
 
