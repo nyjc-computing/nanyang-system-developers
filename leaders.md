@@ -19,6 +19,7 @@
 4. [Intro to DevOps]()
 5. [GitHub Actions and automations]()
 6. [Data privacy]()
+7. [User Experience design (UX)]()
 
 ## Advanced modules (future work) 
 
