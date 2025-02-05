@@ -16,11 +16,15 @@
 
 2. [git branches]()
 
-3. [csv & json]()
+3. [data security]()
 
-4. [html & css]()
+4. [unit testing]()
 
-5. [web APIs]() OR [web programming]()
+5. [csv & json]()
+
+6. [html & css]()
+
+7. [web APIs]() OR [web programming]()
 
 ### Assessment
 
@@ -33,6 +37,7 @@
 2. Perform a **supervised** git merge (to a feature branch)
 
 3a. Complete an individual project/feature
+   - project/feature may involve one or more skills in the training programme
    - write unit tests for the project/feature
    - write documentation for the project/feature
    - submit a PR with a comprehensive report of the project/feature
