@@ -16,7 +16,8 @@ Followers are students undergoing training to become NYSD contributors.
 1. GitHub Classroom assignments
    - complete Assignment 1
    - complete Assignment 2
-   - **success condition:** closing of the feedback PR by your assessors constitutes assignment completion
+   - run a unit test manually using the command line
+   - **success condition:** closing of the feedback PR by your assessors, and witnessing of unit test running by a NYSD member, constitutes assignment completion
 
 2. Make a GitHub PR to [nanyang-system-developers](https://github.com/nyjc-computing/nanyang-system-developers) (this repository)
    - fork the repository
