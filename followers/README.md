@@ -9,7 +9,7 @@ Followers are students undergoing training to become NYSD contributors.
 1. [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
    - complete the Basic lessons (optional)
 
-2. [Intro to git version control](followers/training/intro-to-git-version-control.md)
+2. [Intro to git version control](training/intro-to-git-version-control)
 
 ### Assessment
 
