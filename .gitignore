@@ -1,0 +1,8 @@
+
+.replit
+.replit.nix
+replit.nix
+.config/
+.upm/
+.cache/
+.breakpoints
