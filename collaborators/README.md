@@ -16,43 +16,43 @@
 
 #### Programming
 
-- [Object-oriented programming]()
+- [Object-oriented programming](training/object-oriented-programming.md) (INCOMPLETE)
 
 #### Security
 
-- [test-driven development (TDD)]()
+- [Test-driven development (TDD)](training/test-driven-development.md) (INCOMPLETE)
 
 #### Web
 
-- [web programming]()
+- [Web programming](training/web-programming.md)
 
 #### Design
 
-- [Application and interface design]()
+- [Application and interface design](training/application-and-interface-design.md)
 
 #### AI
 
-- [Code Assistants]()
+- [Code Assistants](training/code-assistants.md) (INCOMPLETE)
 
 #### Lifecycle
 
-- [software development lifecycle]()
+- [Software development lifecycle](training/software-development-lifecycle.md)
 
 #### Communication
 
-- [Interfaces and abstraction]()
+- [Interfaces and abstraction](training/interfaces-and-abstraction.md)
 
 #### Collaboration
 
-- [Project management]()
+- [Project management](training/project-management.md)
 
 #### Versioning 
 
-- [git workflows]()
+- [Git workflows](training/git-workflows.md)
 
 #### Process
 
-- [automation]()
+- [Automation](training/automation.md) (INCOMPLETE)
 
 ### Assessment
 
