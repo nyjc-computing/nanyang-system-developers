@@ -13,13 +13,45 @@
 
 ### Materials
 
-1. [Project planning]()
-2. [Technical writing and documentation]()
-3. [Dependency management]()
-4. [Intro to DevOps]()
-5. [GitHub Actions and automations]()
-6. [Data privacy]()
-7. [User Experience design (UX)]()
+#### Programming
+
+- [Modularisation principles]()
+
+#### Security
+
+- [Data privacy]()
+
+#### Web
+
+- [web authentication and authorisation]()
+
+#### Design
+
+- [User Interface and Experience (UI/UX)]()
+
+#### AI
+
+- [Code Agents]()
+
+#### Lifecycle
+
+- [Dependency management]()
+
+#### Communication
+
+- [Technical writing and documentation]()
+
+#### Collaboration
+
+- [Project planning]()
+
+#### Versioning
+
+- [DevOps]()
+
+#### Process
+
+- [Metrics and analytics]()
 
 ## Advanced modules (future work) 
 

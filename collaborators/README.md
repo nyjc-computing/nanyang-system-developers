@@ -14,32 +14,68 @@
 
 ### Materials
 
-1. [Object-oriented programming]()
-2. [Modularisation principles]()
-3. [Interfaces and abstraction]()
-4. [Application and interface design]()
-5. [git workflows]()
-6. [test-driven development (TDD)]()
-7. [Using Copilot effectively]()
-8. [Project management]()
-9. [Code reviews]()
+#### Programming
+
+- [Object-oriented programming]()
+
+#### Security
+
+- [test-driven development (TDD)]()
+
+#### Web
+
+- [web programming]()
+
+#### Design
+
+- [Application and interface design]()
+
+#### AI
+
+- [Code Assistants]()
+
+#### Lifecycle
+
+- [software development lifecycle]()
+
+#### Communication
+
+- [Interfaces and abstraction]()
+
+#### Collaboration
+
+- [Project management]()
+
+#### Versioning 
+
+- [git workflows]()
+
+#### Process
+
+- [automation]()
 
 ### Assessment
 
-1. Write a project brief OR system requirements for a project/feature
-   - **success condition:** publishing the project in NYSD project board constitutes completion
+- [ ] Write a project brief for a project/feature [Collaboration]
 
-2. Manage a team of at least 2 contributors/collaborators
-   - Delegate/assign tasks to contributors
-   - review PRs
-   - mentor ongoing work
-   - at least 3 sprints
-   - **success condition:** acceptable peer assessment by the team & a leader/teacher at the end of 3 sprints
-   
-3a. Design the project hierarchy/interface for multiple collaborators/contributors and explain the design
-   - **success condition:** key questions answered satisfactorily constitutes completion
+**success condition:** project is published in NYSD project board
 
-OR
+- [ ] Create a test suite [Security]
+  - [ ] propose required tests for feature functionality
+  - [ ] may delegate individual unit tests if specifications are clearly stated
+- [ ] Design a class/module interface [Communication]
+- [ ] Perform a git merge [Versioning]
 
-3b. Present a project/feature to stakeholders
-   - **success condition:** completion of the presentation, with feedback from stakeholders or a teacher, constitutes completion
+**success condition:** accepted by an appointed reviewer
+
+- [ ] Manage a team of at least 2 contributors/collaborators
+   - [ ] Delegate/assign tasks to contributors
+   - [ ] Review PRs
+   - [ ] Mentor ongoing work
+   - [ ] At least 3 sprints
+
+**success condition:** acceptable peer assessment by the team & a leader/teacher at the end of 3 sprints
+
+- [ ] Set up automations for a project [Process]
+
+**success condition:** automations deemed acceptable by project leader

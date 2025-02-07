@@ -11,41 +11,73 @@
 
 ### Materials
 
-1. [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
-   - complete all lessons (Advanced + Algorithms)
-2. [Documentation & APIs]()
-2. [git branches]()
-3. [Data security]()
-4. [Unit testing]()
-5. [csv & json]()
-6. [html & css]()
-7. [Web APIs]() OR [Web programming]()
+#### Programming
+
+- [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
+  - complete all lessons (Advanced + Algorithms)
+- [csv & json]()
+- [html & css]()
+
+#### Security
+
+- [Data validation]()
+- [Unit testing]()
+
+#### Web
+
+- [Web requests and responses]()
+
+#### Design
+
+- [Programming Interfaces (APIs)]()
+
+#### AI
+
+- [Chatbots]()
+- [Code completion assistants]()
+
+#### Lifecycle
+
+- [Software versioning]()
+
+#### Communication
+
+- [Docstrings and annotations]()
+
+#### Collaboration
+
+- [Issues]()
+- [Pull requests]()
+- [Project boards]()
+- [Project roadmaps]()
+
+#### Versioning
+
+- [git branching]()
+
+#### Process
+
+- [code reviews]()
 
 ### Assessment
 
-1. GitHub Classroom assignments
-   - complete Assignment 3
-   - complete Assignment 4
-   - complete Assignment 5
-   - **success condition:** closing of the feedback PR by your assessors constitutes assignment completion
+- [ ] complete Assignment 3 [Programming]
+- [ ] complete Assignment 4 [Programming]
+- [ ] complete Assignment 5 [Programming]
 
-2a. Perform a **supervised** git merge (to a feature branch)
-   - **success condition:** discretion is given to the leader/teacher supervising the merge
+**success condition:** closing of the feedback PR by your assessors constitutes assignment completion
 
-OR
+- [ ] Submit an issue report [Collaboration]
 
-2b. Create a new issue on any NYSD repository
-   - **success condition:** issue is sufficiently documented, according to discretion of a leader/teacher
+**success condition:** issue report accepted; no requests for information (RFI)
 
-3a. Complete an individual project/feature
-   - project/feature may involve one or more skills in the training programme
-   - write unit tests for the project/feature
-   - write documentation for the project/feature
-   - submit a PR with a comprehensive report of the project/feature
-   - **success condition:** acceptance of the PR constitutes completion
+- [ ] Complete an assigned task
+  - [ ] Write a unit test [Security]
+  - [ ] Write docstrings [Communication]
+  - [ ] Make a pull request [Versioning]
 
-OR
+**success condition:** pull request is approved and merged
 
-3b. Review a PR for a task satisfactorily
-   - task PR to be reviewed will be decided by a leader/teacher
-   - **success condition:** Acceptance of the review by a collaborator/leader/teacher constitutes completion
+- [ ] Review an assigned pull request (supervised) [Process]
+
+**success condition:** review is approved by supervisor
