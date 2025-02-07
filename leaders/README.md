@@ -55,5 +55,8 @@
 
 ## Advanced modules (future work) 
 
-1. Cryptography
-2. AI & LLMs
+- Cryptography
+- AI & LLMs
+- OAuth
+- Javascript
+- multithreading/async
