@@ -38,7 +38,7 @@
 
 #### Lifecycle
 
-- [Software versioning](training/software-versioning.md) (INCOMPLETE)
+- [Software versioning](training/software-versioning.md)
 
 #### Communication
 
@@ -53,7 +53,7 @@
 
 #### Versioning
 
-- [git branching](training/branching-in-git.md) (INCOMPLETE)
+- [git branching](training/branching-in-git.md)
 
 #### Process
 
