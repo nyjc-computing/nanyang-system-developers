@@ -15,43 +15,43 @@
 
 #### Programming
 
-- [Modularisation principles]()
+- [Object-oriented programming](training/object-oriented-programming.md) (INCOMPLETE)
 
 #### Security
 
-- [Data privacy]()
+- [Test-driven development (TDD)](training/test-driven-development.md) (INCOMPLETE)
 
 #### Web
 
-- [web authentication and authorisation]()
+- [Web programming](training/web-programming.md) (INCOMPLETE)
 
 #### Design
 
-- [User Interface and Experience (UI/UX)]()
+- [Application and interface design](training/application-and-interface-design.md) (INCOMPLETE)
 
 #### AI
 
-- [Code Agents]()
+- [Code Assistants](training/code-assistants.md) (INCOMPLETE)
 
 #### Lifecycle
 
-- [Dependency management]()
+- [Software development lifecycle](training/software-development-lifecycle.md) (INCOMPLETE)
 
 #### Communication
 
-- [Technical writing and documentation]()
+- [Interfaces and abstraction](training/interfaces-and-abstraction.md) (INCOMPLETE)
 
 #### Collaboration
 
-- [Project planning]()
+- [Project management](training/project-management.md) (INCOMPLETE)
 
-#### Versioning
+#### Versioning 
 
-- [DevOps]()
+- [Git workflows](training/git-workflows.md) (INCOMPLETE)
 
 #### Process
 
-- [Metrics and analytics]()
+- [Automation](training/automation.md) (INCOMPLETE)
 
 ## Advanced modules (future work) 
 
