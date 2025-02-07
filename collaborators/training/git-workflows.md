@@ -1,10 +1,9 @@
-
 # git workflows
 
 ## Overview
 
-Placeholder text about branching models and flow.
+Git workflows are a set of guidelines that help teams collaborate on projects using Git. Common workflows include feature branching, Gitflow, and forking workflows. These workflows help manage code changes and ensure smooth integration.
 
 ## Slides
 
-Placeholder link for slides or references.
+[Git Workflows Slides](https://example.com/git-workflows-slides)

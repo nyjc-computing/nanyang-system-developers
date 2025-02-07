@@ -1,10 +1,9 @@
-
 # software development lifecycle
 
 ## Overview
 
-Placeholder text about project phases.
+The software development lifecycle (SDLC) is a process used by the software industry to design, develop, and test high-quality software. It includes phases such as planning, analysis, design, implementation, testing, deployment, and maintenance.
 
 ## Slides
 
-Placeholder link for slides or references.
+[Software Development Lifecycle Slides](https://example.com/sdlc-slides)

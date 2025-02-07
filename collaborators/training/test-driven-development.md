@@ -1,10 +1,6 @@
-
-# test-driven development (TDD)
+# Test-Driven Development (TDD)
 
 ## Overview
 
-Placeholder text about TDD and cycles.
+Test-driven development (TDD) is a software development process where you write tests for your functions before you write the actual code. The cycle is: write a test, write code to pass the test, refactor the code, and repeat.
 
-## Slides
-
-Placeholder link for slides or references.

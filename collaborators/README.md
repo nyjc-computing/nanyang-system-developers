@@ -16,7 +16,7 @@
 
 #### Programming
 
-- [Object-oriented programming](training/object-oriented-programming.md) (INCOMPLETE)
+- [Object-oriented programming](training/object-oriented-programming.md)
 
 #### Security
 
@@ -36,19 +36,19 @@
 
 #### Lifecycle
 
-- [Software development lifecycle](training/software-development-lifecycle.md)
+- [Software development lifecycle](training/software-development-lifecycle.md) (INCOMPLETE)
 
 #### Communication
 
-- [Interfaces and abstraction](training/interfaces-and-abstraction.md)
+- [Interfaces and abstraction](training/interfaces-and-abstraction.md) (INCOMPLETE)
 
 #### Collaboration
 
-- [Project management](training/project-management.md)
+- [Project management](training/project-management.md) (INCOMPLETE)
 
 #### Versioning 
 
-- [Git workflows](training/git-workflows.md)
+- [Git workflows](training/git-workflows.md) (INCOMPLETE)
 
 #### Process
 

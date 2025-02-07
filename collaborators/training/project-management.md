@@ -1,10 +1,9 @@
-
 # Project management
 
 ## Overview
 
-Placeholder text about planning and tracking features.
+Project management involves planning, organizing, and managing resources to bring about the successful completion of specific project goals and objectives. It includes defining project scope, setting objectives, creating schedules, and managing budgets.
 
 ## Slides
 
-Placeholder link for slides or references.
+[Project Management Slides](https://example.com/project-management-slides)
