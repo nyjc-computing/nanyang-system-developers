@@ -15,7 +15,7 @@
 
 #### Programming
 
-- [Modularisation principles](training/modularisation-principles.md)
+- [Modularisation principles](training/modularisation-principles.md) (INCOMPLETE)
 
 #### Security
 
@@ -23,35 +23,35 @@
 
 #### Web
 
-- [web authentication and authorisation](training/web-authentication-authorisation.md)
+- [web authentication and authorisation](training/web-authentication-authorisation.md) (INCOMPLETE)
 
 #### Design
 
-- [User Interface and Experience (UI/UX)](training/ui-ux.md)
+- [User Interface and Experience (UI/UX)](training/ui-ux.md) (INCOMPLETE)
 
 #### AI
 
-- [Code Agents](training/code-agents.md)
+- [Code Agents](training/code-agents.md) (INCOMPLETE)
 
 #### Lifecycle
 
-- [Dependency management](training/dependency-management.md)
+- [Dependency management](training/dependency-management.md) (INCOMPLETE)
 
 #### Communication
 
-- [Technical writing and documentation](training/technical-writing-documentation.md)
+- [Technical writing and documentation](training/technical-writing-documentation.md) (INCOMPLETE)
 
 #### Collaboration
 
-- [Project planning](training/project-planning.md)
+- [Project planning](training/project-planning.md) (INCOMPLETE)
 
 #### Versioning
 
-- [DevOps](training/devops.md)
+- [DevOps](training/devops.md) (INCOMPLETE)
 
 #### Process
 
-- [Metrics and analytics](training/metrics-analytics.md)
+- [Metrics and analytics](training/metrics-analytics.md) (INCOMPLETE)
 
 ## Advanced modules (future work) 
 
