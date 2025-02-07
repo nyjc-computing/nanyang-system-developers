@@ -53,7 +53,7 @@
 
 #### Versioning
 
-- [git branching]()
+- [git branching](training/branching-in-git.md)
 
 #### Process
 
