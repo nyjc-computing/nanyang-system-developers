@@ -13,51 +13,51 @@
 
 #### Programming
 
-- [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
+- [Intro to Python](https://github.com/nyjc-computing/intro-to-python) (INCOMPLETE)
   - complete all lessons (Advanced + Algorithms)
-- [csv & json]()
-- [html & css]()
+- [csv & json](training/csv-and-json.md) (INCOMPLETE)
+- [html & css](training/html-and-css.md) (INCOMPLETE)
 
 #### Security
 
-- [Data validation]()
-- [Unit testing]()
+- [Data validation](training/data-validation.md) (INCOMPLETE)
+- [Unit testing](training/unit-testing.md) (INCOMPLETE)
 
 #### Web
 
-- [Web requests and responses]()
+- [Web requests and responses](training/web-requests-and-responses.md) (INCOMPLETE)
 
 #### Design
 
-- [Programming Interfaces (APIs)]()
+- [Programming Interfaces (APIs)](training/programming-interfaces-apis.md) (INCOMPLETE)
 
 #### AI
 
-- [Chatbots]()
-- [Code completion assistants]()
+- [Chatbots](training/chatbots.md) (INCOMPLETE)
+- [Code completion assistants](training/code-completion-assistants.md) (INCOMPLETE)
 
 #### Lifecycle
 
-- [Software versioning]()
+- [Software versioning](training/software-versioning.md) (INCOMPLETE)
 
 #### Communication
 
-- [Docstrings and annotations]()
+- [Docstrings and annotations](training/docstrings-and-annotations.md) (INCOMPLETE)
 
 #### Collaboration
 
-- [Issues]()
-- [Pull requests]()
-- [Project boards]()
-- [Project roadmaps]()
+- [Issues](training/issues.md) (INCOMPLETE)
+- [Pull requests](training/pull-requests.md) (INCOMPLETE)
+- [Project boards](training/project-boards.md) (INCOMPLETE)
+- [Project roadmaps](training/project-roadmaps.md) (INCOMPLETE)
 
 #### Versioning
 
-- [git branching](training/branching-in-git.md)
+- [git branching](training/branching-in-git.md) (INCOMPLETE)
 
 #### Process
 
-- [code reviews]()
+- [code reviews](training/code-reviews.md) (INCOMPLETE)
 
 ### Assessment
 
