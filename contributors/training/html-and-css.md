@@ -1,10 +1,11 @@
-
 # HTML & CSS
 
 ## Overview
 
-Placeholder text about web layouts and styles.
+HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the foundational technologies for building web pages.
+
+HTML is a markup language that provides the structure of the page, while CSS is used to control the presentation, formatting, and layout.
 
 ## Slides
 
-Placeholder link for slides or further reading.
+See [Introduction to HTML and CSS](https://docs.google.com/presentation/d/e/2PACX-1vRsRuQHKrnww0mOBF5iqUyisAyCHje9WYV4XRVzSlntk4wqeaUOB8OwO3Ajy9BPKhe-kS6UNoAwcH8e/pub?start=false&loop=false&delayms=60000) to find out more about these two languages.
