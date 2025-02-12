@@ -13,10 +13,10 @@
 
 #### Programming
 
-- [Intro to Python](https://github.com/nyjc-computing/intro-to-python) (INCOMPLETE)
+- [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
   - complete all lessons (Advanced + Algorithms)
 - [csv & json](training/csv-and-json.md)
-- [html & css](training/html-and-css.md) (INCOMPLETE)
+- [html & css](training/html-and-css.md)
 
 #### Security
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the foundational technologies for building web pages.
+[HTML (HyperText Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS) are the foundational technologies for building web pages.
 
 HTML is a markup language that provides the structure of the page, while CSS is used to control the presentation, formatting, and layout.
 
