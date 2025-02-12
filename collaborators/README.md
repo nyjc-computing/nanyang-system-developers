@@ -17,7 +17,7 @@
 #### Programming
 
 - [Object-oriented programming](training/object-oriented-programming.md)
-- [Templating](training/templating.md) (INCOMPLETE)
+- [Templating](training/templating.md)
 
 #### Security
 
