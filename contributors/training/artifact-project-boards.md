@@ -3,7 +3,7 @@
 
 ## Overview
 
-Project boards help visualize work using columns and cards. They provide a Kanban-style view of project tasks.
+[Project boards](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) help visualize work using columns and cards. They provide a Kanban-style view of project tasks, making it easier to [track features and tasks](https://docs.github.com/en/issues/planning-and-tracking-with-projects).
 
 ## Components
 

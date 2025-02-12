@@ -3,7 +3,7 @@
 
 ## Overview
 
-Pull requests (PRs) let you propose changes to a codebase. They facilitate code review and discussion before changes are merged.
+[Pull requests (PRs)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) let you propose changes to a codebase. They facilitate code review and discussion before changes are merged.
 
 ## Components
 

@@ -46,10 +46,12 @@
 
 #### Collaboration
 
-- [Issues](training/artifact-issues.md) (INCOMPLETE)
-- [Pull requests](training/artifact-pull-requests.md) (INCOMPLETE)
-- [Project boards](training/artifact-project-boards.md) (INCOMPLETE)
-- [Project roadmaps](training/artifact-project-roadmaps.md) (INCOMPLETE)
+NYSD uses GitHub as the central place to manage project-related information.
+
+- [Issues](training/artifact-issues.md) are used to track bug reports, requested features
+- [Pull requests](training/artifact-pull-requests.md) are used to track work in progress and code merges
+- [Project boards](training/artifact-project-boards.md) are used to track work allocation and feature progress
+- [Project roadmaps](training/artifact-project-roadmaps.md) are used to track project progress, and see if the team is on target to meet milestones
 
 #### Versioning
 

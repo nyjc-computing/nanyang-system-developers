@@ -3,7 +3,7 @@
 
 ## Overview
 
-Issues are a way to track bugs, enhancements, tasks, or other project work items. They help teams organize and prioritize their work.
+[Issues]([https://github.com/features/issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)) are a way to track bugs, enhancements, tasks, or other project work items. They help teams organize and prioritize their work.
 
 ## Key Components
 

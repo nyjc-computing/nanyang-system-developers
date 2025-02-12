@@ -3,7 +3,7 @@
 
 ## Overview
 
-Project roadmaps outline the strategic direction and timeline for project development and delivery.
+[Project roadmaps](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/customizing-the-roadmap-layout) outline the strategic direction and timeline for project development and delivery.
 
 ## Components
 
