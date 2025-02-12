@@ -21,7 +21,7 @@
 #### Security
 
 - [Data validation and verification](training/data-validation-and-verification.md)
-- [Unit testing](training/unit-testing.md) (INCOMPLETE)
+- [Unit testing](training/unit-testing.md)
 
 #### Web
 
@@ -42,7 +42,7 @@
 
 #### Communication
 
-- [Docstrings and annotations](training/docstrings-and-annotations.md) (INCOMPLETE)
+- [Docstrings and annotations](training/docstrings-and-annotations.md)
 
 #### Collaboration
 
