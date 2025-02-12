@@ -50,6 +50,7 @@
 #### Versioning 
 
 - [Git workflows](training/git-workflows.md) (INCOMPLETE)
+- [Version labels](training/version-labels.md) (INCOMPLETE)
 
 #### Process
 
