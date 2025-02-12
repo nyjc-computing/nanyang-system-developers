@@ -20,7 +20,7 @@
 
 #### Security
 
-- [Test-driven development (TDD)](training/test-driven-development.md) (INCOMPLETE)
+- [Test-driven development (TDD)](training/test-driven-development.md)
 
 #### Web
 
@@ -32,7 +32,7 @@
 
 #### AI
 
-- [Code Assistants](training/code-assistants.md) (INCOMPLETE)
+- [Code Assistants](training/code-assistants.md)
 
 #### Lifecycle
 
