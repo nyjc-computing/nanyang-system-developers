@@ -30,7 +30,7 @@ Project artifacts are documents and tools that help track and manage project pro
 - Ensure clear ownership and responsibilities
 - Balance workload across team members
 - Understand and respect different priority levels
-- Use "Thirty Percent Feedback" concept for work in progress
+- Use "[Thirty Percent Feedback](https://www.kevinball.com/2016/04/25/effective-feedback-thirty-percent-vs-ninety-percent/)" concept for work in progress
 - Recognize different work styles and preferences
 - Account for varying energy levels and focus needs
 

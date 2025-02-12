@@ -47,7 +47,7 @@
 
 #### Collaboration
 
-- [Project management](training/project-management.md) (INCOMPLETE)
+- [Project management](training/project-management.md)
 
 #### Versioning 
 
