@@ -25,11 +25,11 @@
 
 #### Web
 
-- [Web requests and responses](training/web-requests-and-responses.md) (INCOMPLETE)
+- [Web requests and responses](training/web-requests-and-responses.md)
 
 #### Design
 
-- [Programming Interfaces (APIs)](training/programming-interfaces-apis.md) (INCOMPLETE)
+- [Programming Interfaces (APIs)](training/programming-interfaces-apis.md)
 
 #### AI
 
