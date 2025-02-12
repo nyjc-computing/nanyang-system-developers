@@ -33,8 +33,8 @@
 
 #### AI
 
-- [Chatbots](training/chatbots.md) (INCOMPLETE)
-- [Code completion assistants](training/code-completion-assistants.md) (INCOMPLETE)
+- [Chatbots](training/chatbots.md)
+- [Code completion assistants](training/code-completion-assistants.md)
 
 #### Lifecycle
 
