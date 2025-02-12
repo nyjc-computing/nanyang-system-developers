@@ -57,7 +57,7 @@
 
 #### Process
 
-- [code reviews](training/code-reviews.md) (INCOMPLETE)
+- [code reviews](training/code-reviews.md)
 
 ### Assessment
 
