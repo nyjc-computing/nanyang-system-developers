@@ -1,24 +1,57 @@
-# Modularisation Principles
+
+# Software Packaging
 
 ## Overview
 
-Modularisation involves breaking down a software system into smaller, manageable, and reusable components. This approach improves code maintainability, scalability, and collaboration.
+Packaging involves preparing code for distribution and reuse. Good packaging makes it easier to share code, manage dependencies, and maintain version control.
 
-## Key Concepts
+## Python Packaging
 
-- **Separation of Concerns**: Dividing a program into distinct sections, each addressing a separate concern.
-- **Encapsulation**: Hiding the internal state and requiring all interaction to be performed through an object's methods.
-- **Reusability**: Creating components that can be reused across different parts of the application or in different projects.
-- **Interchangeability**: Designing modules that can be easily replaced or updated without affecting the rest of the system.
+### Purpose
+- Makes code reusable across projects
+- Enables easy distribution via package managers (pip)
+- Manages dependencies automatically
+- Provides version control for releases
 
-## Best Practices
+### Basic Structure
+```
+my_package/
+├── __init__.py
+├── module1.py
+├── module2.py
+├── setup.py
+└── README.md
+```
 
-- Keep modules small and focused.
-- Ensure high cohesion within modules and low coupling between them.
-- Use clear and consistent naming conventions.
-- Document module interfaces and dependencies.
+### Key Files
+- `__init__.py`: Marks directory as Python package
+- `setup.py`: Package metadata and dependencies
+- `README.md`: Usage documentation
+- Source files: Your actual code
+
+### Best Practices
+- Use descriptive package names
+- Include clear documentation
+- Follow semantic versioning
+- List all dependencies
+- Add type hints and docstrings
+
+## General Principles
+
+- **Separation of Concerns**: Divide functionality into logical modules
+- **Encapsulation**: Hide implementation details
+- **Reusability**: Design components for reuse
+- **Maintainability**: Make updates and fixes easy
+
+## Implementation Steps
+
+1. Organize code into modules
+2. Create package structure
+3. Write setup configuration
+4. Test package installation
+5. Document usage and API
 
 ## Further Reading
 
-- [Modular Programming](https://en.wikipedia.org/wiki/Modular_programming)
-- [Design Principles](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
+- [Python Packaging Authority](https://www.pypa.io/)
+- [Python Package Index](https://pypi.org/)
