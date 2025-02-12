@@ -17,10 +17,12 @@
 #### Programming
 
 - [Object-oriented programming](training/object-oriented-programming.md)
+- [Templating](training/templating.md) (INCOMPLETE)
 
 #### Security
 
 - [Test-driven development (TDD)](training/test-driven-development.md)
+- [Secrets and environment variables](training/secrets-env-vars.md) (INCOMPLETE)
 
 #### Web
 
