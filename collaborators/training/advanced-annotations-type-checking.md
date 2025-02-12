@@ -39,6 +39,12 @@ first_element([1, 2, 3])  # Returns int
 first_element(['a', 'b'])  # Returns str
 ```
 
+## Further reading
+
+- [PEP 484 – Type Hints](https://peps.python.org/pep-0484/)
+- [typing — Support for type hints](https://docs.python.org/3/library/typing.html)
+- [PEP 586 – Literal Types](https://peps.python.org/pep-0586/)
+
 ## Type Checking Tools
 
 ### mypy
@@ -69,14 +75,14 @@ def render(thing: Drawable) -> None:
     thing.draw()
 ```
 
-## Best Practices
+## Usage
 
-1. Use type checkers in CI/CD pipelines
-2. Document type variables and complex type hierarchies
-3. Consider gradual typing for large codebases
-4. Use composition of types for complex structures
+While static checking tools like `mypy` can be run from the command line, the more common way to use them is as part of a linting/checking plugin for an IDE, such as Replit or VS Code. These plugins provide inline markup for code, for exampel by underlining code that causes an error, or violates a type definition.
+
+The command line tools are typically used as part of a CI/CD pipeline (see DevOps training), to check for code issues before code is merged upstream.
 
 ## Further Reading
 
-- [PEP 593 – Flexible function and variable annotations](https://peps.python.org/pep-0593/)
+- [PEP 544 – Protocols: Structural subtyping (static duck typing)]([https://peps.python.org/pep-0593/](https://peps.python.org/pep-0544/))
 - [mypy documentation](https://mypy.readthedocs.io/)
+- [pylint documentation](https://docs.pylint.org/)
