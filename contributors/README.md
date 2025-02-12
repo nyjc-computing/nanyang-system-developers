@@ -46,10 +46,10 @@
 
 #### Collaboration
 
-- [Issues](training/issues.md) (INCOMPLETE)
-- [Pull requests](training/pull-requests.md) (INCOMPLETE)
-- [Project boards](training/project-boards.md) (INCOMPLETE)
-- [Project roadmaps](training/project-roadmaps.md) (INCOMPLETE)
+- [Issues](training/artifact-issues.md) (INCOMPLETE)
+- [Pull requests](training/artifact-pull-requests.md) (INCOMPLETE)
+- [Project boards](training/artifact-project-boards.md) (INCOMPLETE)
+- [Project roadmaps](training/artifact-project-roadmaps.md) (INCOMPLETE)
 
 #### Versioning
 
