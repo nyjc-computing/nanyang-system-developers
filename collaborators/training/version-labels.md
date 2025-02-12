@@ -29,6 +29,11 @@ Version labels are identifiers used to mark specific points in a project's devel
   - Full hash (e.g., 8f4e821b912)
   - Short hash (e.g., 8f4e821)
 
+- **Date-Based Versions** (e.g., 20231015)
+  - Use YYYYMMDD format in versioning
+    - enables ASCII-based sorting
+  - Helps in tracking changes on a daily basis
+
 ## Best Practices
 
 1. **Consistent Format**
