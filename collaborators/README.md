@@ -59,3 +59,5 @@
 #### Process
 
 - [Automation](training/automation.md)
+- [Builds](training/builds.md)
+
