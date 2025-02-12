@@ -56,4 +56,4 @@
 
 #### Process
 
-- [Automation](training/automation.md) (INCOMPLETE)
+- [Automation](training/automation.md)
