@@ -81,6 +81,32 @@ Project artifacts are documents and tools that help track and manage project pro
 - Include buffer for unexpected challenges
 - Track actual vs. estimated time for future planning
 
+## Sprint Management
+
+Sprints are fixed-length periods (typically 1-4 weeks) where teams focus on completing a specific set of work items.
+
+### Sprint Planning
+- Set clear sprint goals aligned with project objectives
+- Select work items from the backlog that can be completed within the sprint
+- Break down complex tasks into smaller, manageable items
+- Ensure team agreement on sprint scope and commitments
+
+### During the Sprint
+- Hold daily standup meetings to discuss:
+  - What was completed yesterday
+  - What will be worked on today
+  - Any blockers or challenges
+- Keep sprint board updated with work progress
+- Address blockers promptly
+- Protect team from scope changes
+
+### Sprint Review
+- Demonstrate completed work items
+- Gather feedback from stakeholders
+- Document lessons learned
+- Update project metrics and estimates
+- Plan improvements for next sprint
+
 ## Best Practices
 
 1. Keep communication channels open and active
