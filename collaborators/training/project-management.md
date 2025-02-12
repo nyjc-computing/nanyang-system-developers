@@ -47,7 +47,6 @@ Project artifacts are documents and tools that help track and manage project pro
 ### Communication Best Practices
 - Don't assume everyone uses the same tools or processes
 - Adapt communication style to match team member preferences
-- Consider timezone differences in remote work settings
 - Set clear expectations for response times
 - Respect different work environments (quiet vs collaborative)
 - Account for different personality types and energy levels
@@ -92,7 +91,7 @@ Sprints are fixed-length periods (typically 1-4 weeks) where teams focus on comp
 - Ensure team agreement on sprint scope and commitments
 
 ### During the Sprint
-- Hold daily standup meetings to discuss:
+- Hold standup meetings to discuss:
   - What was completed yesterday
   - What will be worked on today
   - Any blockers or challenges
@@ -112,5 +111,4 @@ Sprints are fixed-length periods (typically 1-4 weeks) where teams focus on comp
 1. Keep communication channels open and active
 2. Document decisions and their rationale
 3. Regular reviews of project status and risks
-4. Balance technical debt with delivery speed
-5. Foster a collaborative team environment
+4. Balance [technical debt](https://en.wikipedia.org/wiki/Technical_debt) with delivery speed
