@@ -1,0 +1,116 @@
+Shoulder-to-shoulder with the CEO. Directly reporting to arguably the most important person in your company. Sounds like a dream, right?
+
+In some ways, it is. I’ve been in this situation a few times, and I’ve always revelled in the ability to pick the brain of the person who best understands the company’s goals.
+
+On the other hand, the CEO tends to be a busy person. Especially in a small startup, which is where I tend to enjoy working most. CEOs in young companies wear many hats, and tend to touch various parts of the business every day. This can make it hard to get their attention when you need it. And if you’re collaborating directly with the CEO, that makes it hard to get your work done.
+
+I was in a situation like this recently. My questions were going unanswered, I was blocked from shipping what I was working on, and I felt frustrated at not having my boss’s ear when I needed it.
+
+Until I realized I’d made a huge mistake.
+
+Here are 5 things I’ve learned – from many years of trial and error – to never assume about my teammates:
+
+5 things to never assume
+
+1. They use the same tools as you.
+I’d assumed I knew how my boss worked. I’d added comments to tasks in our team’s shared task app with questions I needed answers to. I’d assigned tasks to my boss when I needed his input before I could go any further. And I’d used Slack instead of email for questions and suggestions.
+
+I’d assumed everything about how he worked, and how he preferred to communicate. But the truth was, he was really an old-school fellow. He used a paper notebook to keep track of what he needed to do each day. And he treated his inbox like a task list: nothing ever left the inbox until it had been dealt with.
+
+Instead of letting my questions and tasks get lost in the channels we used to keep in touch as a team, I started to work the way my boss did. I used email for things that absolutely needed his input. And I learned to wait until he was online (we worked remotely in different timezones) before asking my questions, so they didn’t get lost in the shuffle.
+
+Working with my boss in a way that suited him made our communication more effective and our collaboration more efficient. Suddenly, things weren’t getting missed. We were getting more done. And it finally felt like we were on the same page.
+
+Janet Choi shared a similar experience that happened to the team from iDoneThis. Ginni, who was the Chief Happiness Officer at iDoneThis, felt frustrated that her engineering teammates weren’t responding to their support emails quickly. Ginni felt she was constantly nudging her teammates to remind them about support tickets that needed their tech chops to resolve.
+
+Eventually, at an in-person retreat, the iDoneThis team discussed the ongoing problem. This helped get everyone on the same page and realize where their communication was breaking down: it turns out, the engineers were treating support tickets like any other email—letting them get buried in their inboxes. All the while, they were working hard to solve issues on GitHub, because that’s what felt like “real”, important work to them.
+
+Ginni switched to creating GitHub issues for anything that came through support channels requiring input from the engineers. But without having that discussion, nobody would have figured out why the system wasn’t working.
+
+Quick tip: In her blog post, Janet called this process “closing the loop”. Assigning a support ticket and assuming it will be followed up on leaves the loop open. Try to find ways to close your communication loops, by using a medium or format your teammates are onboard with.
+With Slack and other internal messaging services becoming so common, you might find that your team as a whole relies on Slack to communicate, but the people you collaborate with most prefer email, or assigning each other tasks in an app like Todoist. Knowing how those people prefer to work gives you a huge leg up when it comes to communicating and working together efficiently. In fact, the better we perceive our team is working together, the higher we tend to rate job satisfaction, so effective collaboration is a big deal.
+
+2. They prefer the same work environment.
+If you work in an office with teammates, you might think everyone likes their environment to be set up the same way, but there can be subtle differences. For instance, some team members might like to listen to music while working, whereas others prefer silence.
+
+Work environment preferences
+Image credit: MusicOomph.com
+And you might notice some people wear headphones to help them block out distractions and focus on their work—these people may find it highly disruptive to be interrupted by a tap on the shoulder, whereas another team member might prefer to move around the office and chat in-person with colleagues.
+
+I’ve observed this mish-mash of working styles in an office myself. I like to work in silence or with my own music to help me focus when reading and writing, so if I’m working alongside people who like to discuss their work or play loud music, it disrupts my process. If they couldn’t collaborate in that way, however, they would probably feel hindered in their work.
+
+At Stack Overflow, employees are given offices with doors so they can work in privacy. This seems old-fashioned in the age of open-plan offices, but the Stack Overflow team believes old-school offices provide the flexibility for employees to work in a way that suits them:
+
+With a private office, you’re in control of your space and attention: you can choose when to close the door and avoid interruptions, and when to go play ping-pong, talk with coworkers or work out of the coffee bar. In an open office you’re at the mercy of the people around you: if they’re talking, the best you can do is crank up your headphones and hope to drown them out, and if they’re playing foosball then good luck.
+
+Work environment - Stackoverflow offices
+Image credit: Stack Overflow
+
+Quick tip: Research shows ambient noise and dark lighting are best for creative work but quiet spaces are more suitable for focused work. Make sure there are spaces in your team’s office to support both types of work. Separating these spaces helps set expectations for what interruptions are acceptable when.
+
+Quick tip: If you work on a remote team, set expectations for asynchronous communication – your coworkers may not reply to every message or comment right away because they’re doing focused work and don’t want distractions.
+How personality differences affect your work environment
+To understand this further, let’s look at the often misunderstood difference between introverts and extroverts. In fact, like many things in life, most of us fall somewhere along a scale between introversion and extroversion—nobody’s 100% one or the other. But more than that, it’s often misunderstood what these terms mean.
+
+I used to think (incorrectly) that being introverted was the same as being shy, but this scale actually refers to where we draw our energy from. The more extroverted you are, the more you feel energized from being around people and having lots of sensory information thrown at you. Extroverts tend to enjoy socializing and face-to-face collaborative work. The more introverted you are, however, the more you draw energy from spending time alone. Being around people is draining for someone who’s very introverted, so they seek out quiet, solo work and hobbies. For those who are very extroverted, spending time alone drains their energy.
+
+
+Quick tip: If you’re feeling lonely, try working in a collaborative space. Research shows seeing people around us can improve our mood, even if we don’t interact with them.
+Since most of us fit somewhere along the spectrum, most people enjoy some time alone and some time with others—but we find those activities draining to different degrees. This is important when it comes to collaboration, because making assumptions about what works best for your teammates could mean you’re tiring them out without realizing. If you’re more extroverted than someone you’re working with, you might be pushing them to have more face-to-face communication than they’re comfortable with, because it works well for you.
+
+Discussing what works best for each of your colleagues can help you work together to ensure nobody’s feeling drained as a result of always working the way others want to.
+
+If you’re working closely with others, take some time to ask how they work and how you can fit into their workflow best before your project gets started. Setting those expectations early can save you time and headaches later.
+
+
+Quick tip: Employ Hanlon’s razor when your teammates are disrupting your flow. Hanlon’s razor says we should assume ignorance before malice. In other words, don’t jump to the conclusion that your teammates are being disruptive on purpose—they probably just don’t realize they’re distracting you.
+3. They communicate the same way you do.
+Doist team retreat
+Doist team retreat in Menorca.
+There’s a reason many remote teams have regular retreats to get everyone together face-to-face: when you don’t talk to each other in real-time, or work in the same physical space, many aspects of communication are lost. Body language, tone of voice, facial expressions—these are all lost or mangled when we use text, phone calls, or even video calls to communicate.
+
+For remote teams, communication is often the biggest problem. Understanding how other people communicate can help you interpret their communication in the right context. For instance, you might have a colleague who doesn’t like writing emails, so tries to make them succinct and efficient to get through the process as quickly as possible. If you don’t know that person well, their tone might come across as brusque, or you may even be offended. But knowing the context behind that message—that they like to limit the time they spend on emails and they’re trying to be efficient—can help you empathize with their point of view and communicate in a way that improves your relationship.
+
+
+Quick tip: For real-time conversations, try to practice listening carefully. And ask your teammate to expand on what they’re saying. These approaches can make you more likable and make teammates want to talk to you again in the future.
+On the other hand, you might notice that some colleagues enjoy small talk, and like getting to know more about you and what you do outside work. Taking this into account, you can build stronger relationships with those team members by sharing more about your personal life and getting to know them better. But without knowing who communicates in what way in advance, you might end up wasting someone’s time who just wants to get the job done. Or even offending someone who wants to chat about last night’s game because you’re aiming for maximum efficiency.
+
+
+Quick tip: We love to talk about ourselves, so a good way to build rapport with teammates is to ask them questions and get them talking.
+4. They share your priorities.
+It’s very easy to assume other people have the same priorities as you—especially if you’re collaborating on the same project. I’ve often mistakenly assumed that my top priority is also a top priority for anyone else working on the same project. In fact, other people often have more pressing work to get done before focusing on the work we’re collaborating on.
+
+It’s also important to know what your teammates’ priorities are at each stage of a project. My colleagues have always been more receptive to my feedback or input if it came at a stage of a project when they had the same priorities I did.
+
+These days I often rely on a concept called Thirty Percent Feedback. This idea comes from Jason Freedman at 42Floors, who picked it up via his investor, Seth Lieberman:
+
+I once asked Seth for feedback on a product mockup, and he asked if I felt like I was ninety percent done or thirty percent done. If I was ninety percent done, he would try to correct me on every little detail possible because otherwise a typo might make it into production. But if I had told him I was only thirty percent done, he would gloss over the tiny mistakes, knowing that I would correct them later. He would engage in broader conversations about what the product should be.
+
+Using the concepts of Thirty Percent Feedback and Ninety Percent Feedback help set expectations for interactions with your teammates. If someone comes to you with a project that’s 30% done, they would naturally find it frustrating to hear 90% feedback.
+
+
+Quick tip: Try sending this 42Floors blog post explaining Thirty Percent Feedback to your teammates. I’ve found this is a great way to start a discussion around providing useful feedback to fellow team members.
+5. You know how to best help them.
+Something I’m trying to do more often is to simply ask, how can I help?
+
+Studies have found that we’re more satisfied at work and more motivated to work hard when we feel a sense of achievement. This feeling comes from making consistent, meaningful progress. Which means perhaps the best thing you can do for your teammates is to know how to  help them make progress in their work. Not to mention, research shows that helping others can make us happier, healthier, and even wealthier.
+
+
+Quick tip: It feels nice to know someone is thinking of you. If you come across some news, a helpful tip, or a tool that a teammate might find helpful, pass it along. Even if they don’t use what you offered, they’ll appreciate the thought.
+It’s easy to assume you can help in a way you would appreciate, but since we all work differently, we all have different needs.
+
+When I’m upset, I often like to be left alone to stew on things until I’ve worn myself out. Eventually I’ll get sick of being in a bad mood and pull myself out of it. But if someone didn’t know that, they might think the best way to help me would be to hang around and try to actively help me feel better. Likewise, I might assume other people prefer to be left alone when they’re struggling with a problem, but for someone who needs support and attention when they’re having trouble, leaving them alone might make them feel worse.
+
+It’s hard to know upfront how to help others, and even what kind of help we need at different times. Depending on the situation, we might want to be kept in the loop all the time, or only called on when we’re really needed. We might want help to get through our work, or silence and time alone to do it ourselves.
+
+I’ve found the best way to handle tough situations is simply to ask each time, how can I help? And to understand that if the answer is “by going away”, that’s not because I’m not helpful—it’s just what that person needs right now. I’m actively helping by asking what they need, and giving it to them if I can.
+
+
+Quick tip: When you sense a teammate is under pressure or struggling with something, send an email or a private message to offer help. Keep it short and sweet, just to let them know you’re around if they need anything.
+When it comes to building relationships, one of the best ways you can go about it is by helping others. First, figure out how you can be helpful. Then help as much as you can to build goodwill with your teammates.
+
+I spend a lot of time thinking about how I work. I try lots of experiments to figure out how I work best, and what I do and don’t like in my work environment. Somehow, it’s taken me years to realize how much I could learn by asking others about how they work best.
+
+The best lesson I’ve learned about working with others is to never assume anything, especially when you’re still getting to know a new colleague. Knowing that everyone works differently and has different needs, I try to remember to ask others how I can work with them in a way that makes them feel most comfortable and helps us work together to get things done.
+
+At the end of the day, it takes a little bit of effort to figure out how your teammates work best, but it makes collaborative work more efficient, less stressful, and allows you to build genuine and productive relationships.
