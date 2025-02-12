@@ -36,7 +36,7 @@
 
 #### Lifecycle
 
-- [Software development lifecycle](training/software-development-lifecycle.md) (INCOMPLETE)
+- [Software development lifecycle](training/software-development-lifecycle.md)
 
 #### Communication
 
