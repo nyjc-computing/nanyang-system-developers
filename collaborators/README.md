@@ -49,8 +49,8 @@
 
 #### Versioning 
 
-- [Git workflows](training/git-workflows.md) (INCOMPLETE)
-- [Version labels](training/version-labels.md) (INCOMPLETE)
+- [Git workflows](training/git-workflows.md)
+- [Version labels](training/version-labels.md)
 
 #### Process
 
