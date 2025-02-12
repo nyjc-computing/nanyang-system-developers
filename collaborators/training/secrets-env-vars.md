@@ -16,7 +16,7 @@ Secrets are sensitive pieces of information that should never be exposed in code
 
 ### Best Practices
 
-1. Never commit secrets to version control
+1. Never commit secrets to version control; secrets must never be pasted into a code file, and any files containing secrets must never be committed or pushed to a repository
 2. Use environment variables to access secrets in code
 3. Rotate secrets regularly
 4. Limit access to secrets to only those who need them
@@ -44,6 +44,33 @@ In JavaScript:
 const apiKey = process.env.API_KEY;
 ```
 
+## Managing secrets
+
+### Storing secrets in a local file
+
+Storing secrets in a local file can be a simple way to manage sensitive information
+for development purposes. However, it requires careful handling to prevent
+accidental exposure. Follow these guidelines to store secrets locally:
+
+1. **Use a dedicated file**: Create a separate file, such as `.env`, to store
+   your secrets. This file should never be committed to version control.
+
+2. **Restrict permissions**: Ensure that only authorized users and processes
+   have access to the secret file. Use system file permissions to restrict access,
+   such as setting the file mode to `600` on Unix systems.
+
+3. **Encrypt the file**: If possible, encrypt the contents of the secret file
+   to add an additional layer of security.
+
+4. **Use environment variable libraries**: In languages like Python and Node.js,
+   use libraries such as `python-dotenv` or `dotenv` to load the secrets from
+   the file into environment variables easily.
+
+5. **Regularly update secrets**: Change the secrets frequently and update the
+   file, ensuring to maintain backups of previous versions securely.
+
+6. **Monitor access**: Keep track of who accesses or modifies the secret
+   file to detect any unauthorized attempts.
 ### Using Replit's Secrets Tool
 
 Replit provides a secure Secrets management tool that automatically makes secrets available as environment variables:

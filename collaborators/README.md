@@ -22,7 +22,7 @@
 #### Security
 
 - [Test-driven development (TDD)](training/test-driven-development.md)
-- [Secrets and environment variables](training/secrets-env-vars.md) (INCOMPLETE)
+- [Secrets and environment variables](training/secrets-env-vars.md)
 
 #### Web
 
