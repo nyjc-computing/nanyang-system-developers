@@ -15,7 +15,7 @@
 
 #### Programming
 
-- [Modularisation principles](training/modularisation-principles.md) (INCOMPLETE)
+- [Packaging](training/packaging.md)
 
 #### Security
 

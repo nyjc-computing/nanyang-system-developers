@@ -53,5 +53,5 @@ my_package/
 
 ## Further Reading
 
-- [Python Packaging Authority](https://www.pypa.io/)
+- [Python Packaging User Guide](https://packaging.python.org/en/latest/)
 - [Python Package Index](https://pypi.org/)
