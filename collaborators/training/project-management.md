@@ -29,12 +29,28 @@ Project artifacts are documents and tools that help track and manage project pro
 - Consider team members' skills and learning goals
 - Ensure clear ownership and responsibilities
 - Balance workload across team members
+- Understand and respect different priority levels
+- Use "Thirty Percent Feedback" concept for work in progress
+- Recognize different work styles and preferences
+- Account for varying energy levels and focus needs
 
 ### Progress Monitoring
 - Regular status updates and check-ins
 - Identify blockers and assistance needs early
 - Assess when issues exceed team member capabilities
 - Facilitate knowledge sharing and pair programming
+- Understand each team member's preferred communication tools and style
+- Respect different work environments and preferences
+- Ask "How can I help?" when teammates face challenges
+- Close communication loops by confirming message receipt and understanding
+
+### Communication Best Practices
+- Don't assume everyone uses the same tools or processes
+- Adapt communication style to match team member preferences
+- Consider timezone differences in remote work settings
+- Set clear expectations for response times
+- Respect different work environments (quiet vs collaborative)
+- Account for different personality types and energy levels
 
 ### Escalation Protocol
 - Report deadline risks promptly to project leads
