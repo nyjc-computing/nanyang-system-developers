@@ -51,4 +51,4 @@ When creating small to medium applications, automation should help make your dev
 3. Keep scripts in a single, organized location
 4. Test frequently during development
 
-Remember: For student projects, simple and reliable automation is better than complex systems. Focus on automating tasks that directly help your development process.
+Remember: For small-to-medium-scale projects, simple and reliable automation is better than complex systems. Focus on automating tasks that directly help your development process.
