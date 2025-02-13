@@ -18,6 +18,7 @@
 
 - [Object-oriented programming](training/object-oriented-programming.md)
 - [Templating](training/templating.md)
+- [Refactoring and Optimization](training/refactoring-and-optimization.md)
 
 #### Security
 
@@ -60,4 +61,3 @@
 
 - [Automation](training/automation.md)
 - [Builds](training/builds.md)
-
