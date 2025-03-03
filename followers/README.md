@@ -2,6 +2,8 @@
 
 Followers are students undergoing training to become NYSD contributors.
 
+NYJC students can [sign up for Nanyang System Developers](https://forms.gle/eYBeW5KZKi6fXFwv6) when signups are open.
+
 ## Training programme
 
 ### Materials
