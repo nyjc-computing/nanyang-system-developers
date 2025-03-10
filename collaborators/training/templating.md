@@ -24,6 +24,8 @@ def hello(name):
 {% endif %}
 ```
 
+Further reading: [Flask Templates](https://flask.palletsprojects.com/en/stable/tutorial/templates/)
+
 ### String Formatting (f-strings)
 
 Python f-strings provide a concise way to embed expressions inside string literals:
@@ -39,6 +41,8 @@ quantity = 3
 print(f"Total cost: ${price * quantity:.2f}")
 ```
 
+Further reading: [format string syntax](https://docs.python.org/3/library/string.html#format-string-syntax)
+
 ### SQL Query Templates
 
 SQL queries often use parameterized templates for safety and reusability:
@@ -52,6 +56,8 @@ cursor.execute(query_template, (18, "New York"))
 query_template = "INSERT INTO users (name, email) VALUES (:name, :email)"
 cursor.execute(query_template, {"name": "Bob", "email": "bob@example.com"})
 ```
+
+Further reading: [sqlite3 - How to use placeholders to bind values in SQL queries](https://docs.python.org/3/library/sqlite3.html#sqlite3-placeholders)
 
 ### Code Generation Templates
 
