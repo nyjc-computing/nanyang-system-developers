@@ -34,6 +34,7 @@ Minimum expected commitment: ~4 hrs/wk
 #### Design
 
 - [Application and interface design](training/application-and-interface-design.md)
+- [Design patterns](training/design-patterns.md)
 
 #### AI
 

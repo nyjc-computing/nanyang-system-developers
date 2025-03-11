@@ -20,5 +20,5 @@ Refactoring should be done in small steps, with frequent testing to ensure that 
 
 ## Further reading
 
-- [Refactoring Guru](https://refactoring.guru/refactoring)
+- [Refactoring Guru - Refactoring](https://refactoring.guru/refactoring)
 - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
