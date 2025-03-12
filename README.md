@@ -21,7 +21,7 @@ NYSD members participate at one of three tiers:
 - [Packaging](electives/packaging.md)
 - [Cryptography](electives/cryptography.md)
 - [AI & LLMs](electives/ai-and-llms.md) (INCOMPLETE)
-- [Functional programming](electives/functional-programming.md) (INCOMPLETE)
+- [Functional programming](electives/functional-programming.md)
 - [Concurrent programming](electives/concurrent-programming.md)
 - [Algorithms, data structures, and time complexity](electives/algorithms-data-structures-time-complexity.md) (INCOMPLETE)
 - [Javascript](electives/javascript.md) (INCOMPLETE)
