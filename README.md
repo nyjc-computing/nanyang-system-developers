@@ -22,7 +22,7 @@ NYSD members participate at one of three tiers:
 - [Cryptography](electives/cryptography.md)
 - [AI & LLMs](electives/ai-and-llms.md) (INCOMPLETE)
 - [Functional programming](electives/functional-programming.md) (INCOMPLETE)
-- [Concurrent programming](electives/concurrent-programming.md) (INCOMPLETE)
+- [Concurrent programming](electives/concurrent-programming.md)
 - [Algorithms, data structures, and time complexity](electives/algorithms-data-structures-time-complexity.md) (INCOMPLETE)
 - [Javascript](electives/javascript.md) (INCOMPLETE)
 - [Web programming: Document Object Model](electives/web-programming-dom.md) (INCOMPLETE)
