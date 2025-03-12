@@ -36,7 +36,7 @@ Minimum expected commitment: ~6 hrs/wk
 
 #### Lifecycle
 
-- [Dependency management](training/dependency-management.md) (INCOMPLETE)
+- [Dependency management](training/dependency-management.md)
 
 #### Communication
 

@@ -2,21 +2,25 @@
 
 ## Overview
 
-Dependency management involves handling the libraries and frameworks that a project relies on to ensure compatibility, security, and maintainability.
+Dependency management is about handling the libraries and tools a project needs. This ensures everything works well together, stays secure, and is easy to maintain.
+
+## History and Background
+
+In the past, developers manually added and updated libraries. This was time-consuming and error-prone. With more complex projects, automated tools became necessary. For example, in 2016, a small library called `leftpad` was removed from a repository, breaking thousands of projects that depended on it. This highlighted the need for better dependency management.
 
 ## Key Concepts
 
-- **Versioning**: Using version numbers to track changes and updates to dependencies.
-- **Package Managers**: Tools that automate the process of installing, updating, and removing dependencies (e.g., npm, pip, Maven).
-- **Semantic Versioning**: A versioning scheme that conveys meaning about the underlying changes (e.g., MAJOR.MINOR.PATCH).
-- **Transitive Dependencies**: Dependencies of dependencies that need to be managed to avoid conflicts and ensure compatibility.
+- **Versioning**: Track changes with version numbers.
+- **Package Managers**: Tools like npm, pip, and Maven help install and update libraries automatically.
+- **Semantic Versioning**: A system where version numbers show the type of changes (e.g., 1.2.3 means major.minor.patch changes).
+- **Transitive Dependencies**: Libraries that your libraries need. Managing these avoids conflicts.
 
-## Best Practices
+## Principles of Dependency Management
 
-- Use a lock file to ensure consistent dependency versions across different environments.
-- Regularly update dependencies to benefit from security patches and new features.
-- Monitor for and address security vulnerabilities in dependencies.
-- Document and review the dependencies used in your project.
+- **Consistency**: Use a lock file to keep the same versions across all environments. For example, `package-lock.json` in npm.
+- **Regular Updates**: Update libraries often to get security fixes and new features. For instance, running `npm update`.
+- **Security Monitoring**: Check for vulnerabilities in your libraries. Tools like `npm audit` can help.
+- **Documentation**: Keep a list of all libraries used and review them regularly.
 
 ## Further Reading
 
