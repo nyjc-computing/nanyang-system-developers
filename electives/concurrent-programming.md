@@ -1,4 +1,6 @@
-# Introduction to Concurrent Programming
+# Concurrent Programming
+
+## Overview
 
 Concurrent programming is a way to make your computer do multiple things at the same time. Imagine you are working on a school project and you need to write a report, do some research online, and chat with your friends for help. Instead of doing these tasks one after another, you can do them all at once. This is similar to what concurrent programming does for your computer programs.
 
