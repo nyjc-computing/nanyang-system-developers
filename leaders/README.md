@@ -32,7 +32,7 @@ Minimum expected commitment: ~6 hrs/wk
 
 **Note:** leaders are expected to plan and implement code with the use of chatbots, code completion assistants, and code assistants, _but not code agents_. Agents may be used for personal projects, or for one-off special projects, where informed by a teacher-in-charge.
 
-- [Code Agents](training/code-agents.md) (INCOMPLETE)
+- [Code Agents](training/code-agents.md)
 
 #### Lifecycle
 
