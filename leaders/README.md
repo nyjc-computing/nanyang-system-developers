@@ -44,7 +44,7 @@ Minimum expected commitment: ~6 hrs/wk
 
 #### Collaboration
 
-- [Project planning](training/project-planning.md) (INCOMPLETE)
+- [Project planning](training/project-planning.md)
 
 #### Versioning
 
