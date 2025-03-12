@@ -17,6 +17,8 @@ Minimum expected commitment: ~6 hrs/wk
 
 #### Programming
 
+- [Senior engineers](training/senior-engineers.md)
+
 #### Security
 
 - [Data privacy](training/data-privacy-and-security.md)
