@@ -42,7 +42,7 @@ Minimum expected commitment: ~6 hrs/wk
 
 #### Communication
 
-- [Pitching projects](training/pitching-projects.md) (INCOMPLETE)
+- [Pitching projects](training/pitching-projects.md)
 
 #### Collaboration
 
