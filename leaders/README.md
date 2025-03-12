@@ -20,7 +20,7 @@ Minimum expected commitment: ~6 hrs/wk
 #### Security
 
 - [Data privacy](training/data-privacy-and-security.md)
-- [Backup and archival](training/backup-and-archival.md) (INCOMPLETE)
+- [Backup and archival](training/backup-and-archival.md)
 
 #### Web
 
