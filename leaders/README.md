@@ -51,3 +51,5 @@ Minimum expected commitment: ~6 hrs/wk
 - [DevOps](training/devops.md) (INCOMPLETE)
 
 #### Process
+
+- [Deployment](training/deployment.md)
