@@ -24,7 +24,7 @@ Minimum expected commitment: ~6 hrs/wk
 
 #### Web
 
-- [web authentication and authorisation](training/web-authentication-authorisation.md) (INCOMPLETE)
+- [web authentication and authorisation](training/web-authentication-authorisation.md)
 
 #### Design
 
