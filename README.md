@@ -16,7 +16,7 @@ NYSD members participate at one of three tiers:
 - [Technical writing and documentation](electives/technical-writing-documentation.md)
 - [Metrics and analytics](electives/metrics-analytics.md)
 - [Performance Profiling](electives/performance-profiling.md)
-- [Monitoring](electives/monitoring.md) (INCOMPLETE)
+- [Monitoring](electives/monitoring-and-logging.md)
 - [User Interface and Experience (UI/UX)](electives/ui-ux.md)
 - [Packaging](electives/packaging.md)
 - [Cryptography](electives/cryptography.md)
