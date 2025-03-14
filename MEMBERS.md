@@ -14,3 +14,4 @@ Nil
 ## Contributors
 
 - Luke Yeo (2527)
+- Edward Yee (2527)
