@@ -13,4 +13,5 @@ Nil
 
 ## Contributors
 
+- Savio Sidharta (2527)
 - Luke Yeo (2527)
