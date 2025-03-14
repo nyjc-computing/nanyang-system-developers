@@ -33,3 +33,15 @@ jobs:
           fi
           git reset --hard main
           git push origin draft --force || echo "Failed to force push draft branch"
+      - name: Sync with Intake Branch
+        run: |
+          git checkout intake
+          git pull origin intake || echo "No changes to pull for intake"
+          git reset --hard origin/main
+          git merge --squash origin/main || echo "No changes to merge for intake"
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Squash merge changes from main into intake"
+            git push origin intake || echo "Failed to push intake branch"
+          fi
+          git reset --hard main
+          git push origin intake --force || echo "Failed to force push intake branch"

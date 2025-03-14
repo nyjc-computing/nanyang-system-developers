@@ -17,19 +17,16 @@ Minimum expected commitment: ~6 hrs/wk
 
 #### Programming
 
-- [Packaging](training/packaging.md)
-
 #### Security
 
 - [Data privacy](training/data-privacy-and-security.md)
+- [Backup and archival](training/backup-and-archival.md) (INCOMPLETE)
 
 #### Web
 
 - [web authentication and authorisation](training/web-authentication-authorisation.md) (INCOMPLETE)
 
 #### Design
-
-- [User Interface and Experience (UI/UX)](training/ui-ux.md) (INCOMPLETE)
 
 #### AI
 
@@ -43,7 +40,7 @@ Minimum expected commitment: ~6 hrs/wk
 
 #### Communication
 
-- [Technical writing and documentation](training/technical-writing-documentation.md) (INCOMPLETE)
+- [Pitching projects](training/pitching-projects.md) (INCOMPLETE)
 
 #### Collaboration
 
@@ -54,5 +51,3 @@ Minimum expected commitment: ~6 hrs/wk
 - [DevOps](training/devops.md) (INCOMPLETE)
 
 #### Process
-
-- [Metrics and analytics](training/metrics-analytics.md) (INCOMPLETE)

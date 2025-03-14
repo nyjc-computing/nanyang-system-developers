@@ -13,12 +13,16 @@ NYSD members participate at one of three tiers:
 
 ## Elective modules
 
-1. Cryptography
-2. AI & LLMs
-3. Design patterns
-4. Functional programming
-5. Concurrent programming 
-6. Algorithms, data structures, and time complexity
-7. Javascript
-8. Web programming: Document Object Model 
-9. System architecture: cloud hosting and serverless architecture
+- [Technical writing and documentation](electives/technical-writing-documentation.md) (INCOMPLETE)
+- [Metrics and analytics](electives/metrics-analytics.md) (INCOMPLETE)
+- [User Interface and Experience (UI/UX)](electives/ui-ux.md) (INCOMPLETE)
+- [Packaging](electives/packaging.md)
+- [Cryptography](electives/cryptography.md) (INCOMPLETE)
+- [AI & LLMs](electives/ai-and-llms.md) (INCOMPLETE)
+- [Design patterns](electives/design-patterns.md) (INCOMPLETE)
+- [Functional programming](electives/functional-programming.md) (INCOMPLETE)
+- [Concurrent programming](electives/concurrent-programming.md) (INCOMPLETE)
+- [Algorithms, data structures, and time complexity](electives/algorithms-data-structures-time-complexity.md) (INCOMPLETE)
+- [Javascript](electives/javascript.md) (INCOMPLETE)
+- [Web programming: Document Object Model](electives/web-programming-dom.md) (INCOMPLETE)
+- [System architecture: cloud hosting and serverless architecture](electives/system-architecture-cloud-serverless.md) (INCOMPLETE)

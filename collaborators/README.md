@@ -20,7 +20,7 @@ Minimum expected commitment: ~4 hrs/wk
 
 - [Object-oriented programming](training/object-oriented-programming.md)
 - [Templating](training/templating.md)
-- [Refactoring and Optimization](training/refactoring-and-optimization.md)
+- [Refactoring](training/refactoring.md)
 
 #### Security
 
@@ -34,6 +34,7 @@ Minimum expected commitment: ~4 hrs/wk
 #### Design
 
 - [Application and interface design](training/application-and-interface-design.md)
+- [Design patterns](training/design-patterns.md)
 
 #### AI
 
