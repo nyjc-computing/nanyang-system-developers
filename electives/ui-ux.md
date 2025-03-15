@@ -20,5 +20,6 @@ UI/UX design focuses on creating intuitive and engaging interfaces that provide 
 
 ## Further Reading
 
-- [Nielsen Norman Group](https://www.nngroup.com/)
-- [Material Design](https://material.io/design)
+- [UI/UX Learning Guide](https://github.com/hendurhance/ui-ux)
+- [An Introduction to Color Theory and Color Palettes](https://careerfoundry.com/en/blog/ui-design/introduction-to-color-theory-and-color-palettes/)
+- [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
