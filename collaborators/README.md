@@ -64,3 +64,4 @@ Minimum expected commitment: ~4 hrs/wk
 
 - [Automation](training/automation.md)
 - [Builds](training/builds.md)
+- [Feature management](training/feature-management.md)
