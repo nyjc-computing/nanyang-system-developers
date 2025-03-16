@@ -1,6 +1,6 @@
 # NYSD members
 
-Membership list as of 15 Mar, 2025.
+Member9ship list as of 15 Mar, 2025.
 
 ## Leaders
 
@@ -18,3 +18,4 @@ Nil
 - Lohith Ishan Balasubramaniyan (2527)
 - Christella Tiffany Tang (2527)
 - Savio Sidharta (2527)
++ Matthew Na (2527)
