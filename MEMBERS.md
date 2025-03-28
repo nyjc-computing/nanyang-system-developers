@@ -21,4 +21,8 @@ Nil
 - Matthew Na (2527)
 - Sayson Gerard Santos (2528)
 - Pham Luan Khang (2528)
+- Vince Wan (2527)
+- Yong Kai Sheng (2510)
+- Francis Ang Zhao Xiong (2510)
+- Yeo Seng Hong Greg (2510)
 - Quek Yixin (2510)
