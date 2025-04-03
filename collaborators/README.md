@@ -65,3 +65,14 @@ Minimum expected commitment: ~4 hrs/wk
 - [Automation](training/automation.md)
 - [Builds](training/builds.md)
 - [Feature management](training/feature-management.md)
+
+
+### Assessment
+
+- [ ] Provide feedback on 5 assignment submissions [Process]
+
+**success condition:** review accepted by supervisor (reacted 👍)
+
+- [ ] Review an assigned pull request (supervised) [Process]
+
+**success condition:** review is approved by supervisor
