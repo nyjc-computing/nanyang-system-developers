@@ -65,3 +65,25 @@ Minimum expected commitment: ~4 hrs/wk
 - [Automation](training/automation.md)
 - [Builds](training/builds.md)
 - [Feature management](training/feature-management.md)
+
+
+### Assessment
+
+- [ ] Fixed/resolved an issue using an issue branch [Programming]
+
+**success condition:** PR accepted by supervisor (merged and closed)
+
+- [ ] Designed modules/classes for a feature/project [Communication]
+- [ ] Wrote a module docstring/project README [Communication]
+
+**success condition:** design accepted by supervisor (reacted 👍), tasks created
+
+- [ ] Coached 3 contributors through at least 2 sprints [Collaboration]
+- [ ] Provide feedback on 5 assignment submissions [Collaboration]
+
+**success condition:** review accepted by supervisor (reacted 👍)
+
+- [ ] Made a pull request to `dev`/`main` (for a feature) [Versioning]
+- [ ] Review an assigned pull request (supervised) [Process]
+
+**success condition:** PR/review is approved by supervisor (merged/reacted 👍)

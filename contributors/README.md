@@ -79,11 +79,7 @@ NYSD uses GitHub as the central place to manage project-related information.
 
 - [ ] Complete an assigned task
   - [ ] Write a unit test [Security]
-  - [ ] Write docstrings [Communication]
+  - [ ] Write documentation [Communication]
   - [ ] Make a pull request [Versioning]
 
 **success condition:** pull request is approved and merged
-
-- [ ] Review an assigned pull request (supervised) [Process]
-
-**success condition:** review is approved by supervisor
