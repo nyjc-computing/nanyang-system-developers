@@ -10,6 +10,9 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        branches: [draft, intake]  # Add new branches here
     steps:
       - name: Checkout Main Branch
         uses: actions/checkout@v3
@@ -21,27 +24,16 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
 
-      - name: Sync with Draft Branch
+      - name: Sync with ${{ matrix.branch }}
         run: |
-          git checkout draft
-          git pull origin draft || echo "No changes to pull for draft"
+          TARGET_BRANCH="${{ matrix.branch }}"
+          git checkout $TARGET_BRANCH
+          git pull origin $TARGET_BRANCH || echo "No changes to pull for $TARGET_BRANCH"
           git reset --hard origin/main
-          git merge --squash origin/main || echo "No changes to merge for draft"
+          git merge --squash origin/main || echo "No changes to merge for $TARGET_BRANCH"
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Squash merge changes from main into draft"
-            git push origin draft || echo "Failed to push draft branch"
+            git commit -m "Squash merge changes from main into $TARGET_BRANCH"
+            git push origin $TARGET_BRANCH || echo "Failed to push $TARGET_BRANCH"
           fi
           git reset --hard main
-          git push origin draft --force || echo "Failed to force push draft branch"
-      - name: Sync with Intake Branch
-        run: |
-          git checkout intake
-          git pull origin intake || echo "No changes to pull for intake"
-          git reset --hard origin/main
-          git merge --squash origin/main || echo "No changes to merge for intake"
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Squash merge changes from main into intake"
-            git push origin intake || echo "Failed to push intake branch"
-          fi
-          git reset --hard main
-          git push origin intake --force || echo "Failed to force push intake branch"
+          git push origin $TARGET_BRANCH --force || echo "Failed to force push $TARGET_BRANCH"
