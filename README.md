@@ -20,6 +20,7 @@ NYSD members participate at one of three tiers:
 - [User Interface and Experience (UI/UX)](electives/ui-ux.md)
 - [Packaging](electives/packaging.md)
 - [Cryptography](electives/cryptography.md)
+- [Event-Driven Architecture](electives/event-driven-architecture.md) (INCOMPLETE)
 - [AI & LLMs](electives/ai-and-llms.md) (INCOMPLETE)
 - [Functional programming](electives/functional-programming.md)
 - [Concurrent programming](electives/concurrent-programming.md)
