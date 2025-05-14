@@ -63,6 +63,7 @@ NYSD uses GitHub as the central place to manage project-related information.
 
 #### Process
 
+- [commit messages](training/commit-messages.md)
 - [code reviews](training/code-reviews.md)
 
 ### Assessment
