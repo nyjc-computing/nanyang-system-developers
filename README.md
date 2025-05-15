@@ -13,7 +13,7 @@ NYSD members participate at one of three tiers:
 
 ## Elective modules
 
-- [Virtual environments](electives/virtual-environments.md)the
+- [Virtual environments](electives/virtual-environments.md)
 - [Containers and Deployments](electives/containers-deployments.md)
 - [Technical writing and documentation](electives/technical-writing-documentation.md)
 - [Metrics and analytics](electives/metrics-analytics.md)
