@@ -34,6 +34,7 @@ jobs:
           if git merge-base --is-ancestor $TARGET_BRANCH origin/main 2>/dev/null; then
             git merge --ff-only origin/main && git push origin $TARGET_BRANCH
           else
-            # Not a fast-forward, do a regular merge
-            git merge origin/main -m "Merge changes from main into $TARGET_BRANCH" && git push origin $TARGET_BRANCH
+            # Branch has diverged - rebase target branch onto main
+            git rebase origin/main
+            git push origin $TARGET_BRANCH --force-with-lease
           fi
