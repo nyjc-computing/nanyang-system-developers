@@ -6,10 +6,10 @@ Membership list as of 24 Mar, 2026.
 
 - Luke Yeo (2527)
 - Matthew Na (2527)
+- Savio Sidharta (2527)
 
 ## Collaborators
 
-- Savio Sidharta (2527)
 - Francis Ang Zhao Xiong (2510)
 - Edward Yee (2527)
 
