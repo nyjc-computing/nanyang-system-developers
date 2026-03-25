@@ -24,3 +24,4 @@ Membership list as of 25 Mar, 2026.
 - Yeo Seng Hong Greg (2510)
 - Quek Yixin (2510)
 - Marcos Cheong (2527)
+- Matthew Zimra Yedija Silaban (2626)
