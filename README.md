@@ -14,7 +14,8 @@ Students (followers) who wish to join NYSD must first complete the [training pro
 ## Elective modules
 
 - [Virtual environments](electives/virtual-environments.md)
-- [Containers and Deployments](electives/containers-deployments.md)
+- [Containers](electives/containers.md)
+- [Deployments](electives/deployments.md)
 - [Technical writing and documentation](electives/technical-writing-documentation.md)
 - [Metrics and analytics](electives/metrics-analytics.md)
 - [Performance Profiling](electives/performance-profiling.md)

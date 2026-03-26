@@ -1,21 +1,20 @@
 # NYSD members
 
-Membership list as of 10 Mar, 2026.
+Membership list as of 25 Mar, 2026.
 
 ## Leaders
 
-Nil
+- Luke Yeo (2527)
+- Matthew Na (2527)
+- Savio Sidharta (2527)
 
 ## Collaborators
 
-- Luke Yeo (2527)
-- Savio Sidharta (2527)
-- Matthew Na (2527)
 - Francis Ang Zhao Xiong (2510)
+- Edward Yee (2527)
 
 ## Contributors
 
-- Edward Yee (2527)
 - Lohith Ishan Balasubramaniyan (2527)
 - Christella Tiffany Tang (2527)
 - Sayson Gerard Santos (2528)
@@ -25,4 +24,5 @@ Nil
 - Yeo Seng Hong Greg (2510)
 - Quek Yixin (2510)
 - Marcos Cheong (2527)
+- Matthew Zimra Yedija Silaban (2626)
 - Alfred Mook (2626)
