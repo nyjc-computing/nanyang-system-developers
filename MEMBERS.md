@@ -26,5 +26,5 @@ Membership list as of 25 Mar, 2026.
 - Marcos Cheong (2527)
 - Matthew Zimra Yedija Silaban (2626)
 - Dan Meng Pin (2626) 
-
+- Li Yufeng (2626)
 - Enoch Tang (2626)
