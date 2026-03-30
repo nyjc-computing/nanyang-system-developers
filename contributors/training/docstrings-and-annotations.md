@@ -43,7 +43,7 @@ Early in the life of a project, when most of the code is only internally used, i
 
 As the codebase stabilises, it makes more sense to start to describe the code and intended function more carefully, to reduce the chance of costly careless mistakes that will take much more time to fix than to document once properly.
 
-In the long run, in mature codebases, it is common for documentation to take up more of the codebase than actual code. See for instance [the dropbox.auth module](https://github.com/dropbox/dropbox-sdk-python/blob/main/dropbox/auth.py) from the [Dropbox SDK for Python](https://github.com/dropbox/dropbox-sdk-python, a Dropbox package for Python that lets you access the Dropbox service.
+In the long run, in mature codebases, it is common for documentation to take up more of the codebase than actual code. See for instance [the dropbox.auth module](https://github.com/dropbox/dropbox-sdk-python/blob/main/dropbox/auth.py) from the [Dropbox SDK for Python](https://github.com/dropbox/dropbox-sdk-python), a Dropbox package for Python that lets you access the Dropbox service.
 
 ## Annotations
 
