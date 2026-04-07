@@ -28,3 +28,5 @@ Membership list as of 25 Mar, 2026.
 - Dan Meng Pin (2626) 
 - Li Yufeng (2626)
 - Enoch Tang (2626)
+- Avrielle Tan Yu-Xi (2604)
+  
