@@ -6,3 +6,4 @@ replit.nix
 .upm/
 .cache/
 .breakpoints
+.claude/
