@@ -34,6 +34,6 @@ If you don't see your name in the roster, please hang on - after you submit the 
    - fork the repository
    - edit MEMBERS.md to include your name as a Contributor
    - Put "add <your name> as a github contributor" as the commit message
-   - Make a pull request (PR) to the `intake` branch
+   - Make a pull request (PR) to the `intake` branch, with "add <your name> as a github contributor" as the PR title
    - **success condition:** acceptance of the PR constitutes completion of the task and acceptance as a NYSD Contributor.
 

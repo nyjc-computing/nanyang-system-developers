@@ -22,9 +22,13 @@ Minimum expected commitment: ~4 hrs/wk
 - [Templating](training/templating.md)
 - [Refactoring](training/refactoring.md)
 
+#### Testing
+
+- [Integration tests](training/integration-tests.md)
+- [Smoke tests](training/smoke-tests.md)
+
 #### Security
 
-- [Test-driven development (TDD)](training/test-driven-development.md)
 - [Secrets and environment variables](training/secrets-env-vars.md)
 
 #### Web
