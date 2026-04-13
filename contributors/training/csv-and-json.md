@@ -9,4 +9,4 @@ Binary data (raw bits) is often **serialized** to a standard text format when it
 
 ## Slides
 
-See this [slide deck](https://docs.google.com/presentation/d/e/2PACX-1vTgcF9dsPDe5_hTt47HVewD6xG55LE59Sp6xlWnsfUfm1zxUY0RQuDqtmeuZFx_OFRi8IlCCntrJPX3/pub?start=false&loop=false&delayms=60000) for an overview of how to handle CSV and JSON data in Python.
+See this [slide deck](https://docs.google.com/presentation/d/e/2PACX-1vRI7gAruhjxBsAk5vOrj5Eqp7coYFmEXo7vUh7bvK3sYjMdLAs5whK16Mluk_HNPlf4JLxXKGUG56ra/pub?start=false&loop=false&delayms=60000) for an overview of how to handle CSV and JSON data in Python.
