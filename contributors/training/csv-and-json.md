@@ -10,6 +10,7 @@ Binary data (raw bits) is often **serialized** to a standard text format when it
 ## Modules for importing and exporting data
 
 The process of converting an object to text data is known as **serialisation**.
+
 The process of converting text data to an object is known as **deserialisation**.
 
 In python, we can manually serialise or deserialise data using [IOStream objects](https://docs.python.org/3/library/io.html). The simplest way to get an IOStream object is to use the built-in `open()` function. With an IOStream object, we write data to a file using the `f.write()` method, and read data from a file using the `f.read()` method (or other related methods).
