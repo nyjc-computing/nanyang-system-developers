@@ -346,7 +346,7 @@ if __name__ == "__main__":
 
 Run from terminal:
 ```bash
-python test_grade_calculator.py
+poetry run python test_grade_calculator.py
 ```
 
 Output:
@@ -481,7 +481,7 @@ project/
 
 Run all tests at once:
 ```bash
-python -m unittest discover tests
+poetry run python tests/run_tests.py unit
 ```
 
 ---
@@ -880,7 +880,7 @@ if __name__ == "__main__":
 
 Run with verbose output:
 ```bash
-python test_attendance.py
+poetry run python test_attendance.py
 ```
 
 Output:
@@ -933,19 +933,19 @@ OK
 
 ```bash
 # Run a single test file
-python test_attendance.py
+poetry run python test_attendance.py
 
-# Run all tests in a directory
-python -m unittest discover tests
+# Run all unit tests using the project's test runner
+poetry run python tests/run_tests.py unit
 
 # Run with verbose output
-python -m unittest discover -v
+poetry run python tests/run_tests.py unit -v
 
 # Run only specific test class
-python -m unittest test_attendance.TestMarkAttendance
+poetry run python -m unittest test_attendance.TestMarkAttendance
 
 # Run only specific test
-python -m unittest test_attendance.TestMarkAttendance.test_mark_present
+poetry run python -m unittest test_attendance.TestMarkAttendance.test_mark_present
 ```
 
 ---
