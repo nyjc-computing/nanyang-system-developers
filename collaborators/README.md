@@ -18,7 +18,7 @@ Minimum expected commitment: ~4 hrs/wk
 
 #### Programming
 
-- [Object-oriented programming](training/object-oriented-programming.md)
+- [Object-oriented programming](training/object-oriented-programming-polymorphism-encapsulation.md)
 - [Templating](training/templating.md)
 - [Refactoring](training/refactoring.md)
 
