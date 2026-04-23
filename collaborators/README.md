@@ -28,6 +28,7 @@ Minimum expected commitment: ~4 hrs/wk
 
 - [Integration tests](training/integration-tests.md)
 - [Smoke tests](training/smoke-tests.md)
+- [Contract tests](training/contract-tests.md)
 
 #### Security
 
