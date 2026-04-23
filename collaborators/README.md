@@ -18,7 +18,7 @@ Minimum expected commitment: ~4 hrs/wk
 
 #### Programming
 
-- [Object-oriented programming: Polymorphism and Encapsulation](training/object-oriented-programming-polymorphism-encapsulation.md)
+- [Object-oriented programming: Polymorphism and Encapsulation](training/object-oriented-programming-polymorphism-inheritance.md)
 - [Templating](training/templating.md)
 - [Refactoring](training/refactoring.md)
 - [Callbacks](training/callbacks.md)
