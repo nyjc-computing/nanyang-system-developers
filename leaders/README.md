@@ -17,6 +17,7 @@ Minimum expected commitment: ~6 hrs/wk
 
 #### Programming
 
+- [Python import system](training/python-import-system.md)
 - [Senior engineers](training/senior-engineers.md)
 
 #### Security
@@ -27,6 +28,10 @@ Minimum expected commitment: ~6 hrs/wk
 #### Web
 
 - [web authentication and authorisation](training/web-authentication-authorisation.md)
+
+#### Testing
+
+- [Integration tests](training/integration-tests.md)
 
 #### Design
 

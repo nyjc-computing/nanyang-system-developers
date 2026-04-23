@@ -18,14 +18,16 @@ Minimum expected commitment: ~4 hrs/wk
 
 #### Programming
 
-- [Object-oriented programming](training/object-oriented-programming.md)
+- [Object-oriented programming: Polymorphism and Encapsulation](training/object-oriented-programming-polymorphism-encapsulation.md)
 - [Templating](training/templating.md)
 - [Refactoring](training/refactoring.md)
+- [Callbacks](training/callbacks.md)
+- [Decorators](training/decorators.md)
 
 #### Testing
 
-- [Integration tests](training/integration-tests.md)
 - [Smoke tests](training/smoke-tests.md)
+- [Contract tests](training/contract-tests.md)
 
 #### Security
 
