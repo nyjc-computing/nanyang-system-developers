@@ -28,6 +28,10 @@ Minimum expected commitment: ~6 hrs/wk
 
 - [web authentication and authorisation](training/web-authentication-authorisation.md)
 
+#### Testing
+
+- [Integration tests](training/integration-tests.md)
+
 #### Design
 
 #### AI
