@@ -18,6 +18,7 @@ Minimum expected commitment: ~2 hrs/wk
 - [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
   - complete all lessons (Advanced + Algorithms)
 - [Object-oriented programming: Encapsulation](training/object-oriented-programming-encapsulation.md)
+- [Object-oriented programming: Dataclasses](training/object-oriented-programming-dataclasses.md)
 - [csv & json](training/csv-and-json.md)
 - [html & css](training/html-and-css.md)
 
