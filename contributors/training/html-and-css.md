@@ -17,7 +17,7 @@ HTML (HyperText Markup Language) was created to help programmers describe the co
 
 HTML uses **nested tags** to help you add paragraphs, headers, pictures, bullets and other pieces of structure for **semantic markup** of a document.
 
-**Further reading:** Introduction to HTML, HyperText Markup Language (yet to embedd code)
+**Further reading:** [Introduction to HTML](https://www.w3schools.com/html/html_intro.asp), [HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 #### HTML tags
 
@@ -55,7 +55,7 @@ CSS describes how HTML elements are to be displayed on screen, paper, or in othe
 
 Similar to how changing the font size, font color and positioning on a word document helps with its styling and display, CSS applies **styling rules** to define how the content looks on a webpage and what else goes on to complement that content.
 
-**Further reading:** Cascading Style Sheets, Selectors
+**Further reading:** [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS), [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors)
 
 #### Exploration
 
@@ -75,22 +75,27 @@ Head to the website:
 https://www.lipsum.com/
 
 Task:
-● Using the **DevTools**, alter the HTML such that the adverts are not visible and the page is suitable for print, as shown. (how to include images)
+● Using the **DevTools**, alter the HTML such that the adverts are not visible and the page is suitable for print, as shown.
+
+Original
+![alt text](image-1.jpeg)
+Final
+![alt text](image.jpeg)
 
 ### Self-study
 
 **Before the lab session:**
-Revise the Notes: HyperText Markup Language (HTML), Cascading Style Sheets (CSS)
+Revise the Notes: [HyperText Markup Language (HTML)](https://docs.google.com/document/d/1zsf3OKFuIKi9SgvS3mflEWCJs7bN8N6NT07MMgjVa5E/edit?tab=t.0#heading=h.uofmalyg35wi), [Cascading Style Sheets (CSS)](https://docs.google.com/document/d/1zsf3OKFuIKi9SgvS3mflEWCJs7bN8N6NT07MMgjVa5E/edit?tab=t.0#heading=h.4zpwrve0iwkt)
 
-Take the quiz on W3Docs.com
+Take the [quiz on W3Docs.com](https://www.w3docs.com/quiz-start/html-basic)
 
 **When you have the time:**
 
-Complete MDN’s Getting Started with HTML, Document and website structure.
+Complete MDN’s [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax), [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents). (I have no access to either link, I'm not sure where they lead or if others will have access)
 
-Check out the handy HTML Cheat sheet
+Check out the handy [HTML Cheat sheet](no access to drive, can't put link)
 
-Take a peek at the online HTML & CSS Interactive Cheat Sheet
+Take a peek at the online [HTML & CSS Interactive Cheat Sheet](https://htmlcheatsheet.com/)
 
 ### Next Lesson
 
