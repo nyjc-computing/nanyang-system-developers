@@ -581,11 +581,11 @@ class TestCriticalPathStudentRegistration(unittest.TestCase):
 Make smoke tests fast to run:
 
 ```bash
-# Run only smoke tests
-python -m unittest discover -s tests/smoke -v
+# Run smoke tests using the project's test runner
+poetry run python tests/run_tests.py sanity
 
 # Or use a custom marker (if using pytest)
-pytest tests/ -m smoke
+poetry run pytest tests/ -m smoke
 ```
 
 ---
@@ -643,16 +643,16 @@ Use this checklist when creating smoke tests:
 ## Running Smoke Tests
 
 ```bash
-# Run smoke tests only
-python -m unittest discover -s tests/smoke -v
+# Run smoke tests using the project's test runner
+poetry run python tests/run_tests.py sanity
 
 # Run with timeout (fail if tests take too long)
-python -m unittest discover -s tests/smoke -v 2>&1 | timeout 60s
+poetry run python tests/run_tests.py sanity --timeout 60
 
 # In CI/CD pipeline
 # .github/workflows/test.yml
 # - name: Run smoke tests
-#   run: python -m unittest discover -s tests/smoke
+#   run: poetry run python tests/run_tests.py sanity
 ```
 
 ---

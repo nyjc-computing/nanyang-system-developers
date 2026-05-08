@@ -692,14 +692,14 @@ class TestAttendanceSystem(unittest.TestCase):
 ## Running Integration Tests
 
 ```bash
-# Run only integration tests (name them test_*_integration.py)
-python -m unittest discover -s tests -p "*_integration.py"
+# Run integration tests using the project's test runner
+poetry run python tests/run_tests.py integration
 
 # Run with verbose output
-python -m unittest discover -s tests -p "*_integration.py" -v
+poetry run python tests/run_tests.py integration -v
 
 # Run specific test class
-python -m unittest test_student_integration.TestStudentRegistrationFlow
+poetry run python -m unittest test_student_integration.TestStudentRegistrationFlow
 ```
 
 ---
