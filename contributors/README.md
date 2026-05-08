@@ -1,7 +1,7 @@
 # Contributors
 
 Just promoted to contributor? Check out the guide below to find out more about NYSD Repositories.
-[Getting Started Guide](getting-started.md)
+[Getting Started Guide](training/getting-started.md)
 
 ## Responsibilities
 
