@@ -1,5 +1,8 @@
 # Contributors
 
+Just promoted to contributor? Check out the guide below to find out more about NYSD Repositories.
+[Getting Started Guide](getting-started.md)
+
 ## Responsibilities
 
 - Take on tasks (adding/modifying functions or classes in 1-2 files)
