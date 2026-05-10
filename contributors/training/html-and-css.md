@@ -43,7 +43,7 @@ DevTools is a powerful "debugger" for web programming and scripting, used by stu
 
 For this task, we will use NYJC's official website: https://www.nanyangjc.moe.edu.sg/
 
-As you browse the page, right click on different elements and click **Inspect**. What do you see?
+As you browse the page, right-click on different elements and click **Inspect**. What do you see?
 
 ### Cascading Style Sheets (CSS): Controls the visual presentation and styling of content
 
@@ -62,10 +62,13 @@ Similar to how changing the font size, font color and positioning on a word docu
 Head back to NYJC’s oﬃcial website:
 https://www.nanyangjc.moe.edu.sg/
 
-*Task:*
-● *Inspect* the various elements on the webpage.
-● *Uncheck* certain *property-value pairs* in the *Styles Panel*. What do you see?
-● Continue exploring the selectors in the *Styles Panel*; change the property values to see the corresponding changes in the webpage.
+**Task:**
+
+● **Inspect** the various elements on the webpage.
+
+● **Uncheck** certain **property-value pairs** in the **Styles Panel**. What do you see?
+
+● Continue exploring the selectors in the **Styles Panel**; change the property values to see the corresponding changes in the webpage.
 
 ## CHECKPOINT
 
@@ -75,11 +78,15 @@ Head to the website:
 https://www.lipsum.com/
 
 Task:
+
 ● Using the **DevTools**, alter the HTML such that the adverts are not visible and the page is suitable for print, as shown.
 
 Original
+
 ![alt text](image-1.jpeg)
+
 Final
+
 ![alt text](image.jpeg)
 
 ### Self-study
@@ -91,9 +98,9 @@ Take the [quiz on W3Docs.com](https://www.w3docs.com/quiz-start/html-basic)
 
 **When you have the time:**
 
-Complete MDN’s [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax), [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents). (I have no access to either link, I'm not sure where they lead or if others will have access)
+Complete MDN’s [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax), [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents).
 
-Check out the handy [HTML Cheat sheet](no access to drive, can't put link)
+Check out the handy [HTML Cheat sheet](NO ACCESS TO DRIVE, NO LINK)
 
 Take a peek at the online [HTML & CSS Interactive Cheat Sheet](https://htmlcheatsheet.com/)
 
