@@ -100,7 +100,7 @@ Take the [quiz on W3Docs.com](https://www.w3docs.com/quiz-start/html-basic)
 
 Complete MDN’s [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax), [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents).
 
-Check out the handy [HTML Cheat sheet](NO ACCESS TO DRIVE, NO LINK)
+Check out the handy [HTML Cheat sheet](https://drive.google.com/file/d/1sYvaCUrSLdK8llDFqXIaks7OMUS5uHQi/view?usp=drivesdk)
 
 Take a peek at the online [HTML & CSS Interactive Cheat Sheet](https://htmlcheatsheet.com/)
 
