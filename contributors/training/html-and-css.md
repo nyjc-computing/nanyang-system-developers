@@ -79,7 +79,7 @@ https://www.lipsum.com/
 
 Task:
 
-● Using the **DevTools**, alter the HTML such that the adverts are not visible and the page is suitable for print, as shown.
+- Using the **DevTools**, alter the HTML such that the adverts are not visible and the page is suitable for print, as shown.
 
 Original
 
