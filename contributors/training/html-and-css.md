@@ -91,18 +91,13 @@ Final
 
 ### Self-study
 
-**Before the lab session:**
-Revise the Notes: [HyperText Markup Language (HTML)](https://docs.google.com/document/d/1zsf3OKFuIKi9SgvS3mflEWCJs7bN8N6NT07MMgjVa5E/edit?tab=t.0#heading=h.uofmalyg35wi), [Cascading Style Sheets (CSS)](https://docs.google.com/document/d/1zsf3OKFuIKi9SgvS3mflEWCJs7bN8N6NT07MMgjVa5E/edit?tab=t.0#heading=h.4zpwrve0iwkt)
-
-Take the [quiz on W3Docs.com](https://www.w3docs.com/quiz-start/html-basic)
-
-**When you have the time:**
-
 Complete MDN’s [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax), [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents).
 
 Check out the handy [HTML Cheat sheet](https://drive.google.com/file/d/1sYvaCUrSLdK8llDFqXIaks7OMUS5uHQi/view?usp=drivesdk)
 
 Take a peek at the online [HTML & CSS Interactive Cheat Sheet](https://htmlcheatsheet.com/)
+
+Take the [quiz on W3Docs.com](https://www.w3docs.com/quiz-start/html-basic)
 
 ### Next Lesson
 
