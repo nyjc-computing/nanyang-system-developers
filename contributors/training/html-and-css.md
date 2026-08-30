@@ -98,15 +98,3 @@ Check out the handy [HTML Cheat sheet](https://drive.google.com/file/d/1sYvaCUrS
 Take a peek at the online [HTML & CSS Interactive Cheat Sheet](https://htmlcheatsheet.com/)
 
 Take the [quiz on W3Docs.com](https://www.w3docs.com/quiz-start/html-basic)
-
-### Next Lesson
-
-HTML/CSS for Github portfolio
-- Create a GitHub page and portfolio
-
-If you are struggling, remember:
-Some developers dedicate their **entire careers** to mastering HTML, CSS, and Javascript.
-
-You are learning and using *the same language* as these professionals.
-
-**You are not expected to know everything at one go!**
