@@ -1,2 +1,12 @@
+
+.replit
+.replit.nix
+replit.nix
+.config/
+.upm/
+.cache/
+.breakpoints
+.claude/
+
 # Git worktrees (in-repo worktree directories)
 .worktrees/
